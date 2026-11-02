@@ -79,7 +79,7 @@
 ## 作者
 
 **daigorou-addon**
-- GitHub: [github.com/daigorou-addon](https://github.com/daigorou-addon)
+- GitHub: [daigorou-Tools](https://daigorou-addon.github.io/daigorou-tools/)
 - Support: [buymeacoffee.com/daigorou](https://buymeacoffee.com/daigorou)
 
 
